@@ -195,6 +195,3 @@ body {
     background-position: top left, center center;
     background-repeat: repeat, none;
     background-size: auto, cover; }
-
-.no-webp body::before {
-  background-image: url("/images/overlay.png"), url("/images/bg.jpg"); }
